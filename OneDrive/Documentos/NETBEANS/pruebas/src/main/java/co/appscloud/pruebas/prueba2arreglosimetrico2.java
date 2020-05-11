@@ -56,8 +56,7 @@ public static void contar(int [] myArray,int numMayor)
 			   for(int b=1;b<=myArray.length;b++)
 			  { 
 				
-				
-                                if(myArray[b-1]==a)
+                               if(myArray[b-1]==a)
 				{
 				 System.out.print("*");	
 				}  
