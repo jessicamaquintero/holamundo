@@ -16,7 +16,7 @@ Nota: Asumir que esta escribiendo el codigo dentro de una clase Main, por lo que
 
 package jessica.holam;
 
-import static jessica.prueba3.myArray;
+
 
 /**
 * @author jessica quintero v
